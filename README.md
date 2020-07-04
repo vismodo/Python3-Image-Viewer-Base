@@ -50,3 +50,8 @@ Let us start of with the first few lines - Importing the modules
 28.     open_img()
 29.     root.mainloop()# mainloop
 ```
+* In line 12, we use the tkinter filedialog and return it in line 13.
+* In line 15, you can see the usage of the 'Image' module.
+* In line 18, we get the size of the image opened and and set the dimensions of the tkinter window and the image.
+* In line 21, ImageTk is used to create the image and it is turned into a label and packd in line 22, 23 and 24.
+* If all of this fails, the tkinter 'showinfo' function is used in line 26 and the window is destroyed in line 27.
