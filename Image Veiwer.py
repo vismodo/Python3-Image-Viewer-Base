@@ -31,7 +31,7 @@ def next_func():
 
 welcome = Tk()
 welcome.title('Py Image Viewer')
-img2 = ImageTk.PhotoImage(Image.open("Important pic.png"))
+img2 = ImageTk.PhotoImage(Image.open("Welcome_Screen.png"))
 panel2 = Label(welcome, image = img2)
 panel2.pack(side = "top", fill = "both", expand = "yes")
 intro = Label(welcome, text="This program will help you to load an image", font=("Helevectica",20,'bold')).pack()
