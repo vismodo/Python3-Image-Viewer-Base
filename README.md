@@ -13,4 +13,6 @@ Let us start of with the first few lines - Importing the modules
 ```
 * tkinter:- As you may know, tkinter is the basic package to make GUI windows and widgets.
 * PIL:- From PIL, we will be using ImageTk and Image. These are to open the images.
-* filedialog:- 
+* filedialog:- It is a tkinter function that allows you to select a file from a different window.
+
+* showinfo:- It is a tkinter function that allows you to send alerts and messages. It is commonly used in desktop notifiers.
