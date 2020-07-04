@@ -3,7 +3,6 @@ from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import filedialog
 from tkinter.messagebox import showinfo
-import os
 def next_func():
     welcome.destroy()
     root = Tk()
