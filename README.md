@@ -55,3 +55,22 @@ Let us start of with the first few lines - Importing the modules
 * In line 18, we get the size of the image opened and and set the dimensions of the tkinter window and the image.
 * In line 21, ImageTk is used to create the image and it is turned into a label and packd in line 22, 23 and 24.
 * If all of this fails, the tkinter 'showinfo' function is used in line 26 and the window is destroyed in line 27.
+* In line 29, the window with the image is mainlooped.
+```
+31. welcome = Tk()
+32. welcome.title('Py Image Viewer')
+33. img2 = ImageTk.PhotoImage(Image.open("Welcome_Screen.png"))
+34. panel2 = Label(welcome, image = img2)
+35. panel2.pack(side = "top", fill = "both", expand = "yes")
+36. intro = Label(welcome, text="This program will help you to load an image", font=("Helevectica",20,'bold')).pack()
+37. next_but = Button(welcome, text="Next", bd=4, padx=14, pady=14, bg='orange', command=next_func, font=("Courier New",16,'bold')).pack()
+38. welcome.mainloop()
+```
+* In line 31, a new window called 'welcome' is created. In line 32, The window is renamed to 'Py Image Viewer'
+* From line 33 to 36, the welcome image is loaded and in the last 2 lines, the 'Continue' button is created, packed, and the window is mainlooped.
+
+## Authors
+I Created this repository wth the help of my friend Amey Anand
+
+## Was this repostitory helpful?
+Star this repository if you found it helpful.
