@@ -1,6 +1,7 @@
 # Python3-Image-Viewer
 Of course, all operating systems have image viewers now, but what if you wanted to make your own, with more options? You can fork this repository and make one with more features!
-
+## Use this template to create your own Image Viewer!
+Click [here](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/generate) to generate a new repository from this one. Modify it to satisfy your needs and please mention this repository in your README.md!
 ## Explaining the code
 Let us start of with the first few lines - Importing the modules
 
