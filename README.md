@@ -3,7 +3,7 @@ Of course, all operating systems have image viewers now, but what if you wanted 
 
 ## Demonstration
 Here, I'll show you how the picture I opened with this utility came out nearly the same way as Apple Preview
-![Demo](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/blob/master/Demo.gif/ {width=40px height=400px})
+![Demo](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/blob/master/Demo.gif/){:height="36px" width="36px"}
 ## Use this template to create your own Image Viewer!
 Click [here](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/generate) to generate a new repository from this one. Modify it to satisfy your needs and please mention this repository in your README.md!
 ## Explaining the code
