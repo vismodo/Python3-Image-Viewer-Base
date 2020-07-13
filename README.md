@@ -2,7 +2,7 @@
 Of course, all operating systems have image viewers now, but what if you wanted to make your own, with more options? You can fork this repository and make one with more features!
 
 ## Demonstration
-Here, I'll show you how the picture I opened with this utility came in the same dimensions it was taken in. I later tried opening it with Apple Preview, andd the image came out in the same resolution.
+Here, I'll show you how the picture I opened with this utility came in the same dimensions it was taken in. I later tried opening it with Apple Preview, and the image came out in the same resolution.
 ![Demo](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/blob/master/Demo.gif/)
 ## Use this template to create your own Image Viewer!
 Click [here](https://github.com/VismayaAtreya/Python3-Image-Viewer-Base/generate) to generate a new repository from this one. Modify it to satisfy your needs and please mention this repository in your README.md!
