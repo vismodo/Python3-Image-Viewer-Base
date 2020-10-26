@@ -81,4 +81,4 @@ Let us start of with the first few lines - Importing the modules
 I Created this repository wth the help of my friend Amey Anand
 
 ## Was this repostitory helpful?
-Star this repository if you found it helpful.
+Star this repository if you found it helpful. :)
