@@ -78,7 +78,7 @@ Let us start of with the first few lines - Importing the modules
 * From line 33 to 36, the welcome image is loaded and in the last 2 lines, the 'Continue' button is created, packed, and the window is mainlooped.
 
 ## Authors
-I Created this repository wth the help of my friend [Py08]("https://github.com/Py08")
+I Created this repository wth the help of my friend [Py08](https://github.com/Py08)
 
 ## Was this repostitory helpful?
 Star this repository if you found it helpful.
